@@ -62,12 +62,17 @@
 }
 
 .campos button{
-    width: 280px;
+    width: 150px;
     height: 40px;
     display: flex;
     font-size: 22px;
-    margin-left: auto 10px auto 5px;
+    margin-left: 150px;
     text-align: center;
     justify-content: center;
-    
+    padding: 7px 15px;
+    background-color: rgb(87, 87, 241);
+    color: rgb(236, 236, 234);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
